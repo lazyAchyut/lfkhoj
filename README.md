@@ -1,4 +1,13 @@
 # lfkhoj
+lfKhoj is a company based knowledge sharing system implemented in Leapfrog Technology, which gives programmers and developers a medium to interact with each other.
+
+It is integrated in Hipchat and when one user ask question on particular domain, this system creates a new room and invites the expert of same domain within the company.
+
+> Features
+* Register a new expert of domain
+* Ask question
+* Each question has discussion room
+
 
 ##Building
 ------------------------
